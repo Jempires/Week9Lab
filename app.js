@@ -16,3 +16,5 @@ for (const element of string) {
     console.log(element);
   }
 
+
+  
