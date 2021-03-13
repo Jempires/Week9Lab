@@ -1,0 +1,21 @@
+ @media screen and (max-width: 1080px){
+    div{
+        background-color: cornflowerblue;
+        font-size: 30px;
+}
+}
+
+@media screen and (max-width: 480px), screen and (orientation: landscape or portrait) {
+    div{
+        background-color:darkmagenta;
+        font-size: 10px;
+    }
+    }
+
+    
+@media screen and (min-width: 1080px) {
+    div{
+        background-color:mediumseagreen;
+        font-size: 50px;
+    }
+    } 
